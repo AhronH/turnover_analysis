@@ -4,7 +4,7 @@ I'm happy to share a recent project I've been working on. This project involves 
 
 The project involved leveraging Python and PowerBI to create an interactive dashboard that offers insights and visualizations of the terminated employees within 10 years time, covering a span from 2006 to 2015.
 
-Utilizing Python's data manipulation capabilities in Anaconda, I processed and cleaned the collected data from Kaggle. From there I performed basic visualizations to glance at notable information. The Python libraries I've used include: pandas, seaborn, and matplotlib. They allowed me to ensure the accuracy and consistency of the dataset which I used later on PowerBI. I have also used numpy to try calculating the coefficients between variables, but so far did not succeed.
+Utilizing Python's data manipulation capabilities in Anaconda, I processed and cleaned the collected data from Kaggle. From there I performed basic visualizations to glance at notable information. However, my Python analysis will exclude ACTIVE employee records for easier coding. The Python libraries I've used include: pandas, seaborn, and matplotlib. They allowed me to ensure the accuracy and consistency of the dataset which I used later on PowerBI. I have also used numpy to try calculating the coefficients between variables, but so far did not succeed.
 
 You can explore the dashboard here: https://mavenanalytics.io/project/6827
 
